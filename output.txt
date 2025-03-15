@@ -1,0 +1,97 @@
+Image Loaded: 1.png
+  Dimensions: 1920 x 1200
+  Pixel Format: 32-bit ARGB
+Image Loaded: 2.png
+  Dimensions: 1920 x 1200
+  Pixel Format: 32-bit ARGB
+Image Loaded: 3.png
+  Dimensions: 1920 x 1200
+  Pixel Format: 32-bit ARGB
+Image Loaded: 4.png
+  Dimensions: 1920 x 1200
+  Pixel Format: 32-bit ARGB
+Image Loaded: 5.png
+  Dimensions: 1920 x 1200
+  Pixel Format: 32-bit ARGB
+Image Loaded: 6.png
+  Dimensions: 1920 x 1200
+  Pixel Format: 32-bit ARGB
+Image Loaded: 7.png
+  Dimensions: 1920 x 1200
+  Pixel Format: 32-bit ARGB
+Image Loaded: 8.png
+  Dimensions: 1920 x 1200
+  Pixel Format: 32-bit ARGB
+Image Loaded: 9.png
+  Dimensions: 1920 x 1200
+  Pixel Format: 32-bit ARGB
+Image Loaded: 10.png
+  Dimensions: 1920 x 1200
+  Pixel Format: 32-bit ARGB
+Image Loaded: 11.png
+  Dimensions: 1920 x 1200
+  Pixel Format: 32-bit ARGB
+Image Loaded: 12.png
+  Dimensions: 1920 x 1200
+  Pixel Format: 32-bit ARGB
+Image Loaded: 13.png
+  Dimensions: 1920 x 1200
+  Pixel Format: 32-bit ARGB
+Image Loaded: 14.png
+  Dimensions: 1920 x 1200
+  Pixel Format: 32-bit ARGB
+Image Loaded: 15.png
+  Dimensions: 1920 x 1200
+  Pixel Format: 32-bit ARGB
+Image Loaded: 16.png
+  Dimensions: 1920 x 1200
+  Pixel Format: 32-bit ARGB
+Image Loaded: 17.png
+  Dimensions: 1920 x 1200
+  Pixel Format: 32-bit ARGB
+Image Loaded: 18.png
+  Dimensions: 1920 x 1200
+  Pixel Format: 32-bit ARGB
+Image Loaded: 19.png
+  Dimensions: 1920 x 1200
+  Pixel Format: 32-bit ARGB
+MSE: 878.763
+Cosine Similarity: 0.964825
+MSE: 970.801
+Cosine Similarity: 0.961078
+MSE: 956.94
+Cosine Similarity: 0.961651
+MSE: 850.668
+Cosine Similarity: 0.966067
+MSE: 510.584
+Cosine Similarity: 0.978924
+MSE: 794.786
+Cosine Similarity: 0.968348
+MSE: 829.251
+Cosine Similarity: 0.966902
+MSE: 816.837
+Cosine Similarity: 0.967399
+MSE: 205.604
+Cosine Similarity: 0.991958
+MSE: 373.224
+Cosine Similarity: 0.985504
+MSE: 414.5
+Cosine Similarity: 0.983905
+MSE: 441.727
+Cosine Similarity: 0.981524
+MSE: 732.802
+Cosine Similarity: 0.971518
+MSE: 381.442
+Cosine Similarity: 0.985295
+MSE: 719.329
+Cosine Similarity: 0.971568
+MSE: 683.537
+Cosine Similarity: 0.973387
+MSE: 630.477
+Cosine Similarity: 0.974983
+MSE: 356.9
+Cosine Similarity: 0.98602
+MSE: 867.967
+Cosine Similarity: 0.965385
+MSE: 721.78
+Cosine Similarity: 0.971391
